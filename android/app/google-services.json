@@ -1,0 +1,202 @@
+{
+  "project_info": {
+    "project_number": "915584850766",
+    "project_id": "delivery-app-e3483",
+    "storage_bucket": "delivery-app-e3483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915584850766:android:e3907988d2cb2568721c1f",
+        "android_client_info": {
+          "package_name": "com.app4orce.truckdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915584850766-bnrthisoh2anjj87pjcqta30mtq3i3cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app4orce.truckdelivery",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9dAN4PIBaZXUfbL14T7yyku7yj6BCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915584850766-gjf5macppnrt6omjlbu4791i2hqbaar6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.truckdelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915584850766:android:17acc5692664ea28721c1f",
+        "android_client_info": {
+          "package_name": "com.appforce.truckdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915584850766-4c4ppt05si1piakhp1hratlpif6g6tds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appforce.truckdelivery",
+            "certificate_hash": "a9735e0e8e2b99b764a967de420f0330d3a633ef"
+          }
+        },
+        {
+          "client_id": "915584850766-seus1lelardt0s9kgpfrlefq1d5sug0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appforce.truckdelivery",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9dAN4PIBaZXUfbL14T7yyku7yj6BCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915584850766-gjf5macppnrt6omjlbu4791i2hqbaar6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.truckdelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915584850766:android:c76184ef1f25f8dc721c1f",
+        "android_client_info": {
+          "package_name": "com.example.service_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915584850766-0pjdeqs6c4eiob1uqsfb1p10ic94l2q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.service_provider",
+            "certificate_hash": "93631767e4a1817121adf55d82470f6df0fd0355"
+          }
+        },
+        {
+          "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9dAN4PIBaZXUfbL14T7yyku7yj6BCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915584850766-gjf5macppnrt6omjlbu4791i2hqbaar6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.truckdelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915584850766:android:704c8dc857d88806721c1f",
+        "android_client_info": {
+          "package_name": "com.example.truckdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915584850766-hbqdv99gft421f50v64e4f5185rrjfhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truckdelivery",
+            "certificate_hash": "a9735e0e8e2b99b764a967de420f0330d3a633ef"
+          }
+        },
+        {
+          "client_id": "915584850766-t38sh732l0qf1rg15na03ur0lq3vk54f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truckdelivery",
+            "certificate_hash": "93631767e4a1817121adf55d82470f6df0fd0355"
+          }
+        },
+        {
+          "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9dAN4PIBaZXUfbL14T7yyku7yj6BCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915584850766-u7ia1ke81j7h27kafu40rmc6a2ovoi7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915584850766-gjf5macppnrt6omjlbu4791i2hqbaar6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.truckdelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
